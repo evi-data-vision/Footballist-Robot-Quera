@@ -41,7 +41,7 @@ pip install -r requirements.txt
 - این نوت‌بوک راه‌حل یک سوال از مسابقات **Quera** است.
 - **نمره‌ی دریافتی:** 94 از 100 پس از داوری سیستم.
   ```markdown
-   ![Quera Score](https://github.com/evi-data-vision/Footballist-Robot-Quera/blob/main/assets/quera_score.png)
+   ![Quera Score](https://raw.githubusercontent.com/evi-data-vision/Footballist-Robot-Quera/main/assets/quera_score.png)
   ```
 
 ---
