@@ -41,7 +41,6 @@ pip install -r requirements.txt
 - این نوت‌بوک راه‌حل یک سوال از مسابقات **Quera** است.
 - **نمره‌ی دریافتی:** 94 از 100 پس از داوری سیستم.
 
-  
    ![Quera Score](assets/quera_score.png)
 
 ---
